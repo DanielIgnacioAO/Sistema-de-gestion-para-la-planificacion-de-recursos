@@ -1,7 +1,7 @@
 # Proyecto de Residencias Profesionales  
 **Implementación y Optimización de Infraestructura de Redes**
 
-Este repositorio contiene el reporte técnico de mi proyecto de **Residencias Profesionales**, donde participé en la creación de la intranet de una empresa organización real, destacando una aplicación web que permite al área de recursos humanos obtener informes completos sobre las asistencias de los empleados elegibles para el bono de puntualidad. El documento disponible en este repositorio describe a detalle el proceso realizado, los resultados obtenidos y las herramientas utilizadas.
+Este repositorio contiene el reporte técnico de mi proyecto de **Residencias Profesionales**, donde participé en la creación de la intranet de una empresa organización real, realizando programación backend en Java y configuraciones en sistemas operativos Linux. El documento disponible en este repositorio describe a detalle el proceso realizado, los resultados obtenidos y las herramientas utilizadas.
 
 ---
 
