@@ -8,7 +8,7 @@ Este repositorio contiene el reporte técnico de mi proyecto de **Residencias Pr
 ## 📘 Contenido del repositorio
 
 - **Reporte Técnico (PDF)**  
-  Documento completo con la descripción formal de las actividades realizadas durante el periodo de residencias, incluyendo:
+  El documento describe las actividades realizadas durante el periodo de residencias, incluyendo:
   - Planteamiento del problema.
   - Programación backend en Java.  
   - Configuración de servidores en Linux Red Hat. 
@@ -18,7 +18,7 @@ Este repositorio contiene el reporte técnico de mi proyecto de **Residencias Pr
   - Mudanza de servidores Linux.
   - Automatización de procesos.
 
-  Documento completo con la información tecnica del proyecto, siendo su contendio el siguiente:
+  El documento contiene la siguiente estructura:
   - Introducción.
   - Capítulo 1: Generalidades de la empresa. 
   - Capítulo 2: Planteamiento del problema.
